@@ -17,7 +17,7 @@
     "@astrojs/db": "^0.18.3",
     "@astrojs/mdx": "^3.1.9",
     "@astrojs/rss": "^4.0.9",
-    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/sitemap": "3.7.0",
     "@astrojs/vue": "^4.5.2",
     "astro": "^4.16.9",
     "canvas-confetti": "^1.9.3",
