@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
-    "@astrojs/cloudflare": "^10.4.2",
+    "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/db": "^0.18.3",
     "@astrojs/mdx": "^3.1.9",
     "@astrojs/rss": "^4.0.9",
@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@types/canvas-confetti": "^1.6.4",
-    "@types/lodash.debounce": "^4.0.9"
+    "@types/lodash.debounce": "^4.0.9",
+    "wrangler": "^4.59.2"
   }
 }
